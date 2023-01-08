@@ -1,6 +1,10 @@
+1.
 {windows} + R
 type in new window: %temp%
+click "ok" in the new window
 delete all files in folder
 
 2.
 type into the search bar: Disk Cleanup
+select the files to delete in new window
+click OK in the window
