@@ -1,0 +1,8 @@
+1.HTTPS POLICY
+https is to have a secure encripted connection with sofco.tk
+meaning a hacker will not be able to intersept your connection
+
+2.COOKIE POLICY
+cookies are used to track your data and decisions on a site
+sofco.tk uses 0 cookies meaning sofco dos'nt track any of your
+data.
