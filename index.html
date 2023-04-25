@@ -45,20 +45,21 @@ body {
   font-size: 76px;
   font-size-adjust: 20px;
 }
-   #sname1 {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  color: rgba(1, 1, 1, 0.7);
-}
-#sname1 a {
-  font-weight: bold;
-  font-size: 2em
-  transition: all 350;
-}
-#sname1 a:hover {
-  font-size: 30px;
-  font-size-adjust: 10px;
-}
+  p span.special {
+    display: inline;
+    position: relative;
+    color: #f90;
+  }
+  p span.special:hover:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 3em;
+    padding: 0.2em;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    content: attr(title);
+  }
 </style>
  
 </head>
