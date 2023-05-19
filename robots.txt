@@ -1,0 +1,8 @@
+User-agent:nathaniel
+Dissallow:/
+
+User-agent:simon
+allow:\
+
+User-agent:furdox
+Dissallow:/
