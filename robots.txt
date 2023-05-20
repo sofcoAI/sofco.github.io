@@ -1,6 +1,0 @@
-User-agent:SiteAuditBot
-Crawl-delay:2
-Dissallow:/
-
-User-agent:Semrushbot-SI
-allow:\
