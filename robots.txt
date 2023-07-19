@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sofco.tk/sitemap.xml
+Sitemap: https://sofco.tk/sitemap.xml
