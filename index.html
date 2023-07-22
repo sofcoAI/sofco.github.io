@@ -74,6 +74,7 @@ body {
   min-width: 160px;
   max-width:160px;
   border:1px solid;
+  transition:1s;
 }
 
 .dropdown-content a {
@@ -82,9 +83,16 @@ body {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: lightblue}
+.dropdown-content a:hover {
+  background-color: lightblue;
+    transition:0.3s;
+}
+  
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {
+  display: block;
+    transition:1s;
+}
 
   h3{
     color:blue;
